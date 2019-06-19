@@ -5,3 +5,4 @@ Creado en Junio de 2019 en el Instituto de Neurobiología, UNAM, campus Juriquil
 
 Aquí se concentrarán ejercicios y documentación general de las actividades, proyectos  y soluciones a problemas específicos que abordemos. Promovemos el uso de Jupyter notebooks para cuestiones generales que requieran alta descripción y texto bien organizado y el uso de scripts para proyectos específicos.
 
+Felipe Méndez, Qro. Mx. 2019
